@@ -1,4 +1,4 @@
 srvr
 =========
 
-srvr.de - Interaction Systems
+srvr - Interaction Systems
